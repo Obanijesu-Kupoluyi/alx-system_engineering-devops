@@ -1,5 +1,5 @@
 # SHELL BASICS
-###Description
+### Description
 This section contains scripts, which are executable. Below are the scripts and their action that each script does.
 * 0-current_working_directory: It prints the current working directory
 * 1-listit: It lists the items in the current directory
